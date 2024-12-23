@@ -1,4 +1,4 @@
-# Welcome to TapSphere DAO GitBook
+# Welcome to TapSphere DAO 
 
 **TapSphere DAO** is committed to revolutionizing the developer experience for creating mini-apps on messaging platforms like Telegram. By offering comprehensive documentation, intuitive templates, and a growing library of tools, we aim to simplify the creation, sharing, and monetization of mini-apps.
 
